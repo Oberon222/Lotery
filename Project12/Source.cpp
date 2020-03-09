@@ -70,6 +70,10 @@ int Prize(int Door[], int size, int money, int YesNo, int counterPrize) {
 	}
 }
 
+void myNewFunction() {
+	//lalal
+}
+
 int lottery (int money,int counter) {
 	int numb = rand() % 5;
 	int player_numb = 0;
